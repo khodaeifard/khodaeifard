@@ -1,5 +1,4 @@
 ## Hello There! 👋
-
 <!--
 **khodaeifard/khodaeifard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am **Senior Cloud Consultant** and my focus is building a secure and resilient private cloud.
+[Here is my personal weblog](www.mkvlab.at)
+[Here is my youtube channel](https://www.youtube.com/@MehdiKhodaeifard)
+
+## VMware Cloud Foundation
+https://mkvlab.at/categories/vmware/
