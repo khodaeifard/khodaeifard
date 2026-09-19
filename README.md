@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 I am **Senior Cloud Consultant** and my focus is building a secure and resilient private cloud.
+
 [Here is my personal weblog](www.mkvlab.at)
+
 [Here is my youtube channel](https://www.youtube.com/@MehdiKhodaeifard)
 
 ## VMware Cloud Foundation
